@@ -1,0 +1,7 @@
+# 里面有设备 PSN 和 MCP 令牌，绝对不要提交
+config.json
+
+# 运行时的临时文件
+*.log
+node_modules/
+.DS_Store

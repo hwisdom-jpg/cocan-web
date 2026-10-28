@@ -1,0 +1,14 @@
+{
+  "name": "cocan-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "小电拼（CANDYSIGN CP-02s）的网页版控制台，给 Windows / Linux 用",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "lan": "node server.mjs --lan"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
